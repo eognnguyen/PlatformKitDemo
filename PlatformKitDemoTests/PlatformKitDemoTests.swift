@@ -1,13 +1,13 @@
 //
-//  EOGKitDemoTests.swift
-//  EOGKitDemoTests
+//  PlatformKitDemoTests.swift
+//  PlatformKitDemoTests
 //
 //  Created by Nhut Nguyen on 24/6/26.
 //
 
 import XCTest
 
-final class EOGKitDemoTests: XCTestCase {
+final class PlatformKitDemoTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

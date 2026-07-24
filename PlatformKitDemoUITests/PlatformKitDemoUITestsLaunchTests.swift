@@ -1,13 +1,13 @@
 //
-//  EOGKitDemoUITestsLaunchTests.swift
-//  EOGKitDemoUITests
+//  PlatformKitDemoUITestsLaunchTests.swift
+//  PlatformKitDemoUITests
 //
 //  Created by Nhut Nguyen on 24/6/26.
 //
 
 import XCTest
 
-final class EOGKitDemoUITestsLaunchTests: XCTestCase {
+final class PlatformKitDemoUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
